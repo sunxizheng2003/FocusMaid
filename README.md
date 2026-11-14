@@ -2,6 +2,8 @@
 
 A lightweight pixel-art focus timer for Windows, featuring a cute animated maid companion.
 
+![maid](assets/maid.png)
+
 ## Features
 
 - **Focus Timer** — Start and stop focus sessions with a single click.
