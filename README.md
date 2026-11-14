@@ -2,7 +2,7 @@
 
 A lightweight pixel-art focus timer for Windows, featuring a cute animated maid companion.
 
-![maid](assets/maid.png)
+![maid](maid.png)
 
 ## Features
 
